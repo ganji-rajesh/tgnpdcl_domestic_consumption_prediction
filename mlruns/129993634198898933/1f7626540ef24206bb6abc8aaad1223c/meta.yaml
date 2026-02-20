@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/129993634198898933/1f7626540ef24206bb6abc8aaad1223c/artifacts
+end_time: 1771589689801
+entry_point_name: ''
+experiment_id: '129993634198898933'
+lifecycle_stage: active
+run_id: 1f7626540ef24206bb6abc8aaad1223c
+run_name: Holts_Linear_Damped
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589688631
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/129993634198898933/458c5746d1104fccbfc931ff00ae8d6a/artifacts
+end_time: 1771589688627
+entry_point_name: ''
+experiment_id: '129993634198898933'
+lifecycle_stage: active
+run_id: 458c5746d1104fccbfc931ff00ae8d6a
+run_name: Holts_Linear
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589687017
+status: 3
+tags: []
+user_id: codespace

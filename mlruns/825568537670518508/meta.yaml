@@ -1,0 +1,6 @@
+artifact_location: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/825568537670518508
+creation_time: 1771589645576
+experiment_id: '825568537670518508'
+last_update_time: 1771589645576
+lifecycle_stage: active
+name: arima_sarima

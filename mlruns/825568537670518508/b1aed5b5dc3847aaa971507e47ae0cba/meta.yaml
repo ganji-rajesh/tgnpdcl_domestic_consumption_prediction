@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/825568537670518508/b1aed5b5dc3847aaa971507e47ae0cba/artifacts
+end_time: 1771589763652
+entry_point_name: ''
+experiment_id: '825568537670518508'
+lifecycle_stage: active
+run_id: b1aed5b5dc3847aaa971507e47ae0cba
+run_name: ARIMA_auto
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589762090
+status: 3
+tags: []
+user_id: codespace

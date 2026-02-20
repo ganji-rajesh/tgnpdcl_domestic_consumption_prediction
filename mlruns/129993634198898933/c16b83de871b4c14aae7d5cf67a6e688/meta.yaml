@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/129993634198898933/c16b83de871b4c14aae7d5cf67a6e688/artifacts
+end_time: 1771589745319
+entry_point_name: ''
+experiment_id: '129993634198898933'
+lifecycle_stage: active
+run_id: c16b83de871b4c14aae7d5cf67a6e688
+run_name: HW_Additive_Damped
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589743908
+status: 3
+tags: []
+user_id: codespace

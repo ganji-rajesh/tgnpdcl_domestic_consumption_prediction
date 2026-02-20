@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/825568537670518508/313816a6228844b789f0605810f6fb48/artifacts
+end_time: 1771589782020
+entry_point_name: ''
+experiment_id: '825568537670518508'
+lifecycle_stage: active
+run_id: 313816a6228844b789f0605810f6fb48
+run_name: SARIMA_1_1_1_1_1_1_12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589780721
+status: 3
+tags: []
+user_id: codespace

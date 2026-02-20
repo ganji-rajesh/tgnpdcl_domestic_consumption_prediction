@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/129993634198898933/b04e8770d01943668261e936defa0b63/artifacts
+end_time: 1771589891147
+entry_point_name: ''
+experiment_id: '129993634198898933'
+lifecycle_stage: active
+run_id: b04e8770d01943668261e936defa0b63
+run_name: FINAL_FORECAST_HOLT_WINTERS
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589890716
+status: 3
+tags: []
+user_id: codespace

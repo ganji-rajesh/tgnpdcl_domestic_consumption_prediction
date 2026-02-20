@@ -1,0 +1,14 @@
+artifact_uri: /workspaces/tgnpdcl_domestic_consumption_prediction/mlruns/129993634198898933/03dc1b22200f45da8a55deecd785f485/artifacts
+end_time: 1771589747652
+entry_point_name: ''
+experiment_id: '129993634198898933'
+lifecycle_stage: active
+run_id: 03dc1b22200f45da8a55deecd785f485
+run_name: HW_Multiplicative_Damped
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771589746404
+status: 3
+tags: []
+user_id: codespace
